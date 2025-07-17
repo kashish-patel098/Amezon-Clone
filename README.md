@@ -1,4 +1,4 @@
-# Amezon‑Clone
+# Amazon‑Clone
 
 A simple HTML and CSS-based Amazon clone website. This project replicates the core layout and styling of the Amazon homepage, aiming to practice responsive design and layout structure using only frontend technologies.
 
